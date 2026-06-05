@@ -1,4 +1,4 @@
-This is a AI debugging App made with Streamlit. Gemini API key was used here using a .env file. 
+This is a AI debugging App made with Streamlit. Gemini API key has been used here through a .env file. 
 
 **How The App Works?**
 -->Just Submit the screenshot of your error.
